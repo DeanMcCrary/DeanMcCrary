@@ -1,7 +1,7 @@
 ## Hi, I'm Dean ✨
 
 🧠 B.A.S. Computer Systems Networking and Telecommunications at FSCJ<br/>
-🛡️ Certified CompTIA Network+ <br/>
+🛡️ Certified CompTIA Network+, ITIL v4 Foundations <br/>
 📚 Lifelong Learning - Pursuing Sec+, CCNA, & PMI PMP <br/>
 💻 I Secure Networks and design solutions for communication problems<br/>
 
